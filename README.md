@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/17677354/160917917-cb5fe094-1637-4f9b-8801-a8e02a65804b.png)<br>
+![image](https://user-images.githubusercontent.com/17677354/160918579-7da7e328-dee7-47af-a629-126a2e3ec42c.png)<br>
 
 ### Hi there, my name is Agnes Flisnik <br>
 :last_quarter_moon_with_face: As a cosmos fan, I learn Python to collect data from satellites, electronics and embedded C to build a rocket and go into deep space. <br>
