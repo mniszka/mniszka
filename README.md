@@ -1,5 +1,5 @@
 ### Hi there, my name is Agnes Flisnik <br>
-🌱 As a cosmos fan, I learn Python to collect data from satellites, electronics and embedded C to build a rocket and go into deep space. <br>
+:last_quarter_moon_with_face: As a cosmos fan, I learn Python to collect data from satellites, electronics and embedded C to build a rocket and go into deep space. <br>
 If you're interested in space technology, visit my webpage on Facebook about space and science: https://www.facebook.com/Inventions-technology-science-114593359170299
 
 
