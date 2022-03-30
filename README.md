@@ -1,5 +1,6 @@
 ### Hi there, my name is Agnes Flisnik 👋<br>
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python<br>
+If you're interested in space technology, visit my webpage on Facebook about space and science: https://www.facebook.com/Inventions-technology-science-114593359170299
 
 
 <!--
