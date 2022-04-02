@@ -3,7 +3,7 @@
 ### Hi there, my name is Agnes Flisnik ![image](https://user-images.githubusercontent.com/17677354/161381918-350eaf02-3b88-4135-b610-b66b9ebc928f.png)<br>
 :last_quarter_moon_with_face: As a cosmos fan, I learn Python (to process data from satellites), electronics and embedded C (to build a rocket and go into deep space). <br>
 
-<br>
+
 If you're interested in space technology, visit my webpage on Facebook about space and science: https://www.facebook.com/Inventions-technology-science-114593359170299
 <br>
 
