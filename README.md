@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/17677354/160918579-7da7e328-dee7-47af-a629-126a2e3ec42c.png)<br>
 
-
+News about inventions, technology and science: https://www.facebook.com/Inventions-technology-science-114593359170299
 <!--
 **mniszka/mniszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
